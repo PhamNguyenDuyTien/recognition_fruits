@@ -1,5 +1,7 @@
 Recognition tropical fruits
 
+Name: **Phạm Nguyễn Duy Tiến**
+ID:   **19146017**
 
 **Liên kết**
 
